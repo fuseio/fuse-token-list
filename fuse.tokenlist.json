@@ -1,57 +1,18 @@
 {
-  "name": "Fuse Default",
-  "timestamp": "2020-09-17T21:34:15.729Z",
+  "name": "Fuse Default List",
+  "timestamp": "2020-10-09T18:39:47.340Z",
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 5,
+    "patch": 5
   },
   "tags": {},
-  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
-    "fuse"
+    "fuse",
+    "default"
   ],
   "tokens": [
-    {
-      "name": "Dai Stablecoin on Fuse",
-      "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "Digital Rand",
-      "address": "0xBfF749Fa790D4Cbb789a63B5e5173E3F877aD237",
-      "symbol": "DZAR",
-      "decimals": 6,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
-    },
-    {
-      "name": "Fuse Token on Fuse",
-      "address": "0x714005Da6A90F59dD2cF74560ecF4A4BeD5F088A",
-      "symbol": "FUSE",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
-    },
-    {
-      "name": "Fuse Token",
-      "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
-      "symbol": "FUSE",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
-    },
     {
       "name": "0xBitcoin Token",
       "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
@@ -315,6 +276,14 @@
       "decimals": 8,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b/logo.png"
+    },
+    {
+      "name": "Fuse Token",
+      "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
     },
     {
       "name": "Flexacoin",
@@ -1075,6 +1044,38 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin on Fuse",
+      "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Digital Rand",
+      "address": "0xBfF749Fa790D4Cbb789a63B5e5173E3F877aD237",
+      "symbol": "DZAR",
+      "decimals": 6,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
+    },
+    {
+      "name": "Fuse Token on Fuse",
+      "address": "0x714005Da6A90F59dD2cF74560ecF4A4BeD5F088A",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ]
 }
